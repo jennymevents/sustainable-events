@@ -1,4 +1,4 @@
-# Sustainable Events & Experiences Playbook
+# Sustainable Events & Experiences
 
 Events, whether they are virtual or in-person, have a significant footprint on the environment. They are vital for organizations, customers, industries, and communities to network, make announcements, offer educational opportunities, increase sales and account support, and provide opportunities for connection.   
 
