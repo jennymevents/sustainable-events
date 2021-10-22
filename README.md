@@ -23,4 +23,4 @@ Experiences, events, and productions have a significant impact on the environmen
 
 ## Contributing
 
-Pull requests are welcome! If you would like to engage in this repo, please refer to the [Code of Conduct](./CODE_OF_CONDUCT.md).
+Pull requests are welcome! If you would like to engage in this repo, please refer to the GitHub Code of Conduct. 
