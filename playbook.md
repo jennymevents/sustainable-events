@@ -38,8 +38,8 @@ Key strategies to implement sustainable event practices:
   *	Tell the story with your colleagues, customers, and future event partners.
 * Incorporate brevity throughout communications, meetings, and planning. Concise and effective communication practices lower the environmental footprint for preplanning and helps support clarity and collaboration.
   * On average “small” emails (short, no attachments) emit 4g CO2e, “large” emails (long, with attachments) emit 50g CO2e. 
-    * Reference: The Carbon Cost of an Email - The Carbon Literacy Project.
-    * Learn more about being brief: Blog | The Brief Lab.
+    * Reference: [The Carbon Cost of an Email - The Carbon Literacy Project](https://carbonliteracy.com/the-carbon-cost-of-an-email/).
+    * Learn more about being brief: [Blog | The Brief Lab](https://thebrieflab.com/blog/).
       * Effective Meetings:
         * Share agenda in advance with goals, actions, expectations.
         * Ask people to prepare and co-own portions of the agenda.
@@ -50,12 +50,12 @@ Key strategies to implement sustainable event practices:
         * Bullet key priorities and takeaways.
         * Reread the email before sending to ensure it can be read and understood in a few minutes.
   * Cloud storage for assets, documentation, contracts, and meeting recordings can average about 100g CO2e for one year.
-    * Reference: eGRID2018 Summary Tables (epa.gov) & Carbon Footprint of Cloud Storage.
+    * Reference: [eGRID2018 Summary Tables (epa.gov)](https://www.epa.gov/sites/production/files/2020-01/documents/egrid2018_summary_tables.pdf) & [Carbon Footprint of Cloud Storage](https://arxiv.org/pdf/1803.06973.pdf).
   * Depending on the device, network connection, and resolution, recording and streaming video emits 36g CO2e per hour. 
-    * Reference: The carbon footprint of streaming video: fact-checking the headlines – Analysis - IEA.
+    * Reference: [The carbon footprint of streaming video: fact-checking the headlines – Analysis - IEA](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines).
 
 * Get certified as a sustainable, zero-waste event by reporting GRI Standards. This assists with efforts around transparency, while also assisting with guidance and improvement areas.
-  * Reference: How to use the GRI Standards (globalreporting.org), Zero Waste Certified: Sustainability at Microsoft Hackathon - Microsoft Garage
+  * Reference: [How to use the GRI Standards (globalreporting.org)](https://www.globalreporting.org/how-to-use-the-gri-standards/), [Zero Waste Certified: Sustainability at Microsoft Hackathon - Microsoft Garage](https://www.microsoft.com/en-us/garage/blog/2020/07/zero-waste-certified-sustainability-at-microsoft-hackathon/)
 
 ## Key Strategies for Sustainable Events
 Leverage the six Rs of sustainable consumption to guide you through the event planning process: 
@@ -78,9 +78,9 @@ Here are some examples of ways to apply the six Rs to sustainable events:
   * Disposables: Single use items should be completely banned. Using washable or compostable cutlery, plates, cups for water stations, gloves, trash bags, name tags/lanyards, and more can support a zero-waste, environmentally friendly event experience.
 * Reuse: What elements of an event are often repeated or deemed standard? How can they be reused?
   * Signage, structures, and decor: If sourced from a sustainable vendor, items can be reused for future events. By removing dates or key identifiers, items can be reused by other clients like directional signage to a restroom. Utilizing an event application can reduce the need for most signage all together. 
-  * Leftover food and supplies: The donation of food cannot be an afterthought because it does require logistical planning and agreement across multiple partners. Clearly state with all parties that all unserved food will be donated. Work with local organizations or search for agencies using Hungerpedia or other hunger-fighting organizations.
+  * Leftover food and supplies: The donation of food cannot be an afterthought because it does require logistical planning and agreement across multiple partners. Clearly state with all parties that all unserved food will be donated. Work with local organizations or search for agencies using [Hungerpedia](https://www.rockandwrapitup.org/hungerpedia) or other hunger-fighting organizations.
   * Applications: Use the same templates, platforms, and applications as previous events. This will lower the amount of time spent recreating tools, while also lowering the environmental impact from software development.
-* Recycle & Compost: Trash and waste should be eliminated from all events, otherwise, it will simply go to a landfill to leak gas into the atmosphere or pollute bodies of water. Stop this from happening by following the above reduce and reuse steps, while also only using recyclable and compostable items. Reference: EPA’s Environmentally Preferable Purchasing Program
+* Recycle & Compost: Trash and waste should be eliminated from all events, otherwise, it will simply go to a landfill to leak gas into the atmosphere or pollute bodies of water. Stop this from happening by following the above reduce and reuse steps, while also only using recyclable and compostable items. Reference: [EPA’s Environmentally Preferable Purchasing Program](http://www.epa.gov/oppt/epp/)
   * Establish central collection points, place bins for different types of waste side by side, have signage available next to all necessary bins to help the attendee know what items go into what specific bin. Place bins throughout the venue (every room, every 300 ft) to avoid confusion or lack of resources.
   * Use this opportunity to further educate the attendee about the environmental impact they are helping reduce and how.
   * Work with the waste management groups to ensure that proper sorting and transporting practices will be applied to confirm all items go to the appropriate facility.
@@ -89,7 +89,7 @@ Here are some examples of ways to apply the six Rs to sustainable events:
     * Compostable: Biodegradable organic matter that can be composted in a commercial composting facility and turned into compost (aka. nutrient rich soil). However, not all items labeled "biodegradable” are necessarily compostable, because some of these materials do not actually decompose fast enough for commercial composting. Work with vendors to ensure that all items are commercially compostable, properly collected at the venue, and brought to a composting facility. Reference: www.findacomposter.com. 
     * Recyclable: Assuming that “trash” has been eliminated as an option, recyclable items are still an unpreferred choice for materials at your event. Just because something can be recycled, it does not mean it will be recycled. Recyclable items can be used, but more work will be required to work with many various organizations to ensure that your items are truly recycled post-event. Plastic film, Styrofoam, and electronics are just examples of items that most-likely require an outside agency to assist with recycling. 
 * Reward: Make it fun and get the attendees involved! 
-  * Review the Philanthropic Contributions section as part of the Virtual Swag Offering
+  * Consider philanthropic contributions as part of the virtual swag offering
   * Sample Attendee Awareness Activities:
     * Sustainable Sunday
       * Inform and Educate. Share that sustainability is a priority and educate attendees on how they can contribute. Reenforce, recycle, reuse.
@@ -143,10 +143,9 @@ Please report any questions, concerns, or disruptive activity or behavior to the
 * Ask vendors about their sustainability practices
   * Request certifications, policies, processes, and any published sustainable content to verify the vendor is the correct, sustainable choice
     * Review: is sustainability mentioned on their website, what is their waste management criteria and specifications, who oversees waste management, do they repurpose or donate unused items, electrical sources, water use and management practices.
-    * Proper certifications may include: The TRUE program for zero waste certification | TRUE (gbci.org), Certified Carbon Neutral, Certified Organic and Marine Stewardship Council Standards, Leadership in Energy and Environmental Design (LEED) Certified, and commitments towards carbon offsetting. Reference: Sustainability Certifications: Which Can You Trust? - ethical.net.
+    * Proper certifications may include: [The TRUE program for zero waste certification | TRUE (gbci.org)](https://true.gbci.org/true-program-zero-waste-certification), Certified Carbon Neutral, [Certified Organic](https://www.ams.usda.gov/services/organic-certification/becoming-certified) and [Marine Stewardship Council Standards](https://www.msc.org/standards-and-certification/developing-our-standards), [Leadership in Energy and Environmental Design (LEED) Certified](https://en.wikipedia.org/wiki/Leadership_in_Energy_and_Environmental_Design), and commitments towards [carbon offsetting](https://www.terrapass.com/). Reference: [Sustainability Certifications: Which Can You Trust? - ethical.net](https://ethical.net/guide/sustainability-certifications-which-can-you-trust/).
   * Place specific, sustainability language in requests for proposals and contracts
     * Removes misunderstandings, assigns ownership, and illustrates the priority from the beginning 
-  * Learn with the employee’s guide to sustainability
 * Build the team and assign clear, documented roles and responsibilities. 
   * Use an accountability matrix to assign all planning and sustainability efforts
   * Track progress for sustainability efforts specifically during each planning meeting. Communicate potential challenges, required support or funding, and assess opportunities and risks
@@ -162,7 +161,7 @@ Please report any questions, concerns, or disruptive activity or behavior to the
 
 ## CO2e Calculations & Communications for Events
 Consider the pre-planning efforts that generate emissions like software development, emails, data storage, design work, remote work, and video meetings. Calculate the data storage and device use from speakers and hosts recorded rehearsals, pre-recorded sessions, as well as the estimated number of live attendees, annual on-demand viewers, and network quality.
-* Virtual Event Calculator: Calculate the event’s environmental impact to address all greenhouse gas emission types including Scope 1 (direct emissions/organizer generated), Scope 2 (indirect emissions/electricity and energy use) and Scope 3 (other indirect emissions/attendee generated).
+* Calculate the event’s environmental impact to address all greenhouse gas emission types including Scope 1 (direct emissions/organizer generated), Scope 2 (indirect emissions/electricity and energy use) and Scope 3 (other indirect emissions/attendee generated). Reference: [Tradewater Offset Calculator](https://tradewater.us/offsetnow/#event)
 * Carbon Offsetting vs. Carbon Removal 
   * Carbon offsetting and emission avoidance
     * A carbon offset is a reduction in emissions of carbon dioxide, or another greenhouse gas made to compensate for emissions made elsewhere, by funding actions like planting trees. For example, an individual might purchase carbon offsets to compensate for the greenhouse gas emissions caused by personal air travel.
@@ -181,11 +180,11 @@ Consider the pre-planning efforts that generate emissions like software developm
   * Highlight the main goals outlined at the very beginning of the planning process. 
     * Goal 1: Eliminate waste and prioritize compostable or reusable items. 
     * Goal 2: Ban the use of any single-use plastic.
-      * Potential Partner: Seven Clean Seas for plastic-offsetting.
+      * Potential Partner: [Seven Clean Seas](https://www.sevencleanseas.com/) for plastic-offsetting.
     * Goal 3: Offset and remove all carbon emissions x 10 by working with a verified and certified vendor to issue carbon credits. 
-      * Potential Partner: Tradewater for avoided emissions.
+      * Potential Partner: [Tradewater](https://tradewater.us/) for avoided emissions.
     * Goal 4: Offer only digital swag and have one piece of “swag” inspire environmental awareness. 
-      * Potential Partner: Ecosia – Gift a Tree Program.
+      * Potential Partner: [Ecosia – Gift a Tree Program](https://plant.ecosia.org/).
   * Share planning documents and tracking measures used to monitor progress from start to finish. These documents can be shared on GitHub to be used by other planners and organizations as well.
     * Discuss energy efficiency, water efficiency, air quality, transportation practices, waste reduction, food donation and supply chain modifications, and any other environmental, economic, and inclusive indicators.
   * Highlight goals met, potential risks, and areas for improvement. For risks and areas for improvement, include ways the team will assess these results and proposed actions to improve. Be transparent if the team is unsure about a specific solution and outline the research and partnerships required to learn more.
@@ -204,18 +203,18 @@ Consider the below when making your selections:
 
 Potential swag partners:
 * Environment-focused swag:
-  * Tree plantings: Ecosia and One Tree Planted | Tree Planting Non-Profit: One Dollar, One Tree 
-  * Carbon offsets: Tradewater.us
+  * Tree plantings: [Ecosia](https://plant.ecosia.org/) and [One Tree Planted | Tree Planting Non-Profit: One Dollar, One Tree](https://onetreeplanted.org/)
+  * Carbon offsets: [Tradewater.us](https://tradewater.us/offsetnow/)
   * Organizational partnerships: The Ocean Cleanup Foundation, Climate Justice Alliance, Leadership Counsel for Justice & Accountability, EarthRights International, Center for Climate and Energy SolutionsSwag-less, Environmental Defense Fund, The Nature Conservancy, World Wildlife Fund, Conservation International, and Wildlife Conservation Society 
 * Subscription to apps and e-books
   * Mental Wellness: Audiojack, Calm, Headspace, Insight Timer
   * Physical Wellness: Aaptiv, Down Dog, Kineticoach, Peloton
   * Body and Mind: Glo, Gaia, Find What Feels Good, Lotus Yoga, Simple Habit
-  * Others: Spotify Premium, Up Your Genius: A Workbook Designed to Make You Believe You Are Creative 
+  * Others: [Spotify Premium](https://www.spotify.com/premium/), [Up Your Genius: A Workbook Designed to Make You Believe You Are Creative](https://www.amazon.com/Up-Your-Genius-Workbook-Designed/dp/B0875Z2WW4)
 * Philanthropic Contributions 
-  * Charitable Scratch-Off Cards & Gifts: Lotto Love, Kiva 
-  * St. Jude Children’s Research Hospital, USA: Send a free card to a child 
-  * Pick Your Project: Zooniverse, ChickTech, Missing Maps: Mapping Our World Together
+  * Charitable Scratch-Off Cards & Gifts: [Lotto Love](https://givelottolove.com/), [Kiva](https://www.kiva.org/)
+  * St. Jude Children’s Research Hospital, USA: [Send a free card to a child](https://www.stjude.org/get-involved/other-ways/online-card-message-patients.html)
+  * Pick Your Project: [Zooniverse](https://www.zooniverse.org/), [ChickTech](https://chicktech.org/), [Missing Maps: Mapping Our World Together](https://tasks.hotosm.org/)
  
 ## Thank You
 We appreciate your commitment towards prioritizing sustainable and inclusive events and experiences. Please reach out to the event organizers to get involved, partner, provide feedback, and get these practices shared and supported throughout the industry.
