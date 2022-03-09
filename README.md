@@ -20,6 +20,10 @@ Experiences, events, and productions have a significant impact on the environmen
   * A Code of Conduct specifies a baseline standard of behavior so that people with different social values and cultures can communicate effectively, productively, and respectfully. This is imperative at both in-person and virtual events. The Code of Conduct included within this repository can be used for online experiences to both protect and inform the audience of the standards of behavior the organizers require to participate.
 * [inclusive-planning-process.md](./inclusive-planning-process.md)
   * Hosting an inclusive event requires inclusivity intentionally woven throughout the entire event process, especially from the beginning. Utilize this guide to ensure you have a diverse planning committee, inviting diverse speakers and participants, and constantly finding ways to evolve and improve.
+* [sustainable-event-playbook-template-example](./sustainable event playbook template example)
+  * Leverage the playbook example to start creating an event specific playbook applicable to the audience, demographic, topic area, and scope. Download the file and then manipulate it based on the event's needs and goals.
+* [sustainable-event-playbook-template-checklist](./sustainable event playbook template checklist)
+  * Use the playbook checklist to integrate sustainability and inclusion from start to finish within the planning process. Download the file and then manipulate it based on the event's needs and goals. Different scores can be allocated when specific initiatives or checklist items are completed to determine how your event measures in achieving environmental and equitable goals.
 
 ## Contributing
 
