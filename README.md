@@ -1,30 +1,30 @@
-# Nachhaltige Events & Experiences
+# Sustainable Events & Experiences
 
-Events, egal ob virtuell oder persönlich, hinterlassen einen signifikanten ökologischen Fußabdruck. Für die Vernetzung von Unternehmen, Kundinnen, Kunden, Wirtschaftszweigen und Communitys sind sie jedoch unerlässlich. Sie bieten wichtigen Ankündigungen eine Bühne, ermöglichen Fortbildungen, steigern den Umsatz und die Kundenbindung und bieten Gelegenheit zum gegenseitigen Austausch.
+Events, whether they are virtual or in-person, have a significant footprint on the environment. They are vital for organizations, customers, industries, and communities to network, make announcements, offer educational opportunities, increase sales and account support, and provide opportunities for connection.   
 
-Um Commitments hinsichtlich Nachhaltigkeit und Abfallvermeidung („Zero Waste“) nachzukommen, müssen bei Events und Community-orientierten Experiences gezielt entsprechende Maßnahmen ergriffen werden. Das Thema Nachhaltigkeit muss komplett in Strategie, Planung, Programmgestaltung, Logistik, Betrieb und Ausführung integriert werden. Außerdem müssen Diversität, Chancengleichheit, Inklusion und Umweltgerechtigkeit priorisiert werden, indem durch Schaffung von Bewusstheit, Community-basierte Initiativen und Verpflichtungen eine signifikante Wirkung erzielt wird.
+To comply with and support sustainable and zero-waste commitments, intentional practices must be implemented to events and community-driven experiences. Sustainability must be fully integrated into the strategy, planning, programming, logistics, operations, and execution. Additionally, diversity, equity, inclusivity, and environmental justice must be prioritized by generating significant impact through awareness, community-driven initiatives, and commitments.
   
-## Nutzung
+## Usage
 
-Benutzen Sie dieses Repository, um auf das [Sustainable Events & Experiences Playbook](./playbook.md) zuzugreifen und mehr über entsprechende Best Practices zu erfahren. Es beinhaltet einen [Code of Conduct](./sustainable-event-code-of-conduct.md) („Code of Conduct“), da für jedes Event ein Verhaltenskodex veröffentlicht werden sollte, unabhängig davon, ob es sich um ein persönliches oder virtuelles Event handelt und unabhängig von Zielgruppe oder Thema der Veranstaltung.
+Utilize this repository to reference the [Sustainable Events & Experiences Playbook](./playbook.md) to learn best practices. A [Code of Conduct](./sustainable-event-code-of-conduct.md) is included, since a Code of Conduct should be published for any in-person or virtual experience, no matter the audience or subject matter.
 
-## Warum
+## Why
 
-Experiences, Events und Produktionen wirken sich in hohem Maß auf Umwelt und Gemeinschaften aus, die in dem betroffenen Umfeld leben. Hier finden Sie Informationen, die Ihnen bei der Planung, Kommunikation und Ausführung von nachhaltigen Maßnahmen bei großen Konferenzen, Messen, Produktionen und virtuellen Experiences helfen.
+Experiences, events, and productions have a significant impact on the environment and the communities living in it. Here you will find the resources to support planning, communicating, and executing sustainable practices for anything from large conferences, tradeshows, productions, and virtual experiences.
 
-## Was alles enthalten ist
+## What's Included
 
 * [playbook.md](./playbook.md)
-  * o	Als Veranstaltende und Mitwirkende an den wirkungsvollsten Events und Community Experiences der Technologiebranche müssen wir beim Wechsel zu eher virtuellen und Online-Experiences aufgrund von COVID-19 einen kollaborativen Ansatz wählen. Benutzen Sie das Playbook, um sich mit den unterschiedlichen Arten digitaler Experiences, den Schlüsselelementen digitaler Events sowie den Richtlinien für und Anforderungen an virtuelle Veranstaltungen vertraut zu machen und um auf weiterführende Informationen und Best Practices zuzugreifen. 
+  * As the organizers and contributors of the technology industry’s most impactful events and community experiences, we need to take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19. Utilize the playbook to review the different types of digital experiences, key digital event elements, virtual event standards and requirements, and additional resources and best practices. 
 * [sustainable-event-code-of-conduct.md](./sustainable-event-code-of-conduct.md)
-  * o	Ein Verhaltenskodex beschreibt eine Verhaltensgrundnorm, die es Menschen mit unterschiedlichen sozialen Werten und Kulturen erlaubt, effektiv, produktiv und respektvoll miteinander zu kommunizieren. Dies ist sowohl bei persönlichen als auch virtuellen Events unerlässlich. Der in diesem Repository enthaltene Verhaltenskodex kann bei Online-Experiences benutzt werden, um die Teilnehmer zu schützen und sie über die Verhaltensnormen zu informieren, die die Veranstaltenden für die Teilnahme voraussetzen.
+  * A Code of Conduct specifies a baseline standard of behavior so that people with different social values and cultures can communicate effectively, productively, and respectfully. This is imperative at both in-person and virtual events. The Code of Conduct included within this repository can be used for online experiences to both protect and inform the audience of the standards of behavior the organizers require to participate.
 * [inclusive-planning-process.md](./inclusive-planning-process.md)
-  * o	Die Durchführung einer inklusiven Veranstaltung setzt voraus, dass der Inklusionsgedanke bewusst in den gesamten Veranstaltungsprozess integriert wird, insbesondere von Anfang an. Nutzen Sie diesen Leitfaden, um sicherzustellen, dass Sie ein vielfältiges Planungskomitee haben, vielfältige Referentinnen, Referenten und Teilnehmer einladen und kontinuierlich nach Möglichkeiten suchen, sich weiterzuentwickeln und zu verbessern.
+  * Hosting an inclusive event requires inclusivity intentionally woven throughout the entire event process, especially from the beginning. Utilize this guide to ensure you have a diverse planning committee, inviting diverse speakers and participants, and constantly finding ways to evolve and improve.
 * [sustainable-event-playbook-template-example](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjennymevents%2Fsustainable-events%2FEnglish%2FSustainable%2520Event%2520Playbook%2520Template%2520Example.docx&wdOrigin=BROWSELINK)
-  * o	Nutzen Sie das Beispiel des Playbooks, um ein veranstaltungsspezifisches Playbook zu erstellen, das auf die Zielgruppe, die Demografie, den Themenbereich und den Umfang zugeschnitten ist. Laden Sie die Datei herunter und bearbeiten Sie sie je nach den Bedürfnissen und Zielen der Veranstaltung.
+  * Leverage the playbook example to start creating an event specific playbook applicable to the audience, demographic, topic area, and scope. Download the file and then manipulate it based on the event's needs and goals.
 * [sustainable-event-playbook-template-checklist](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjennymevents%2Fsustainable-events%2FEnglish%2FSustainable%2520Event%2520Playbook%2520Template%2520Checklist.xlsx&wdOrigin=BROWSELINK)
-  * o	Verwenden Sie die Checkliste des Playbooks, um Nachhaltigkeit und Inklusion in den kompletten Planungsprozess zu integrieren. Laden Sie die Datei herunter und bearbeiten Sie sie je nach den Anforderungen und Zielen der Veranstaltung. Es können verschiedene Punkte vergeben werden, wenn bestimmte Initiativen oder Punkte der Checkliste abgeschlossen sind, um festzustellen, wie Ihre Veranstaltung bei der Erreichung von Umwelt- und Gleichstellungszielen abschneidet.
+  * Use the playbook checklist to integrate sustainability and inclusion from start to finish within the planning process. Download the file and then manipulate it based on the event's needs and goals. Different scores can be allocated when specific initiatives or checklist items are completed to determine how your event measures in achieving environmental and equitable goals.
 
-## Mitmachen
+## Contributing
 
-Pull Requests sind willkommen! Um zu erfahren, wie Sie sich an diesem Repository beteiligen können, lesen Sie bitte den Verhaltenskodex.
+Pull requests are welcome! If you would like to engage in this repo, please refer to the GitHub Code of Conduct. 
