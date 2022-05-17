@@ -191,7 +191,7 @@ Bedenken Sie emissionserzeugende Maßnahmen im Planungsvorlauf, z. B. Softwareen
   * Stellen Sie den Teilnehmenden Möglichkeiten zur Verfügung, ihr Feedback mitzuteilen, insbesondere was das Thema Nachhaltigkeit betrifft. Dies kann über ein Formular oder per E-Mail-Alias getan werden. Beantworten Sie wenn möglich das Feedback und sammeln Sie alle Rückmeldungen, damit sie in zukünftigen Teambesprechungen benutzt werden können. 
 
 ## Werbemittel
-80 % aller Event-Werbemittel werden nur einmal benutzt. Die Herstellung allein trägt zu 21 % der globalen Treibhausgasemissionen bei. Umweltbewusste Werbemittel sind z. B. virtuelle Angebote, lokal produziert und geliefert, mehrfach verwendbar, philanthropisch, ohne Plastik, organisch und regenerativ. Außerdem bedeuten sie den Teilnehmenden etwas und werden daher mit Sicherheit benutzt.
+80 % aller Event-Werbemittel werden nur einmal benutzt. Global gesehen macht die Produktion über alle Industrien hinweg 21% der weltweiten Treibhausgasemissionen aus. Umweltbewusste Werbemittel sind z. B. virtuelle Angebote, lokal produziert und geliefert, mehrfach verwendbar, philanthropisch, ohne Plastik, organisch und regenerativ. Außerdem bedeuten sie den Teilnehmenden etwas und werden daher mit Sicherheit benutzt.
 
 Berücksichtigen Sie bei Ihrer Wahl die folgenden Kriterien: 
 * Machen Sie die Teilnahme zur Voraussetzung für Werbemittel.
